@@ -26,12 +26,9 @@ Python • Requests • BeautifulSoup • Pandas • Matplotlib • Seaborn
 
 ## Output Files
 
-- scraped_books.csv`
-- scraped_books.xlsx`
+- scraped_books.csv
+- scraped_books.xlsx
 
 ## Conclusion
 
 This project shows how web scraping can transform online information into structured data and useful insights through data cleaning, analysis, and visualization.
-
-**CODSOFT – Data Science Internship**  
-**Author: Hema Priya A.**
